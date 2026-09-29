@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>TodoWallpaper uses your photo as the Home Screen wallpaper background.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>TodoWallpaper shows today&apos;s events on your Lock Screen wallpaper.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>TodoWallpaper saves your todo list as a wallpaper image to your Photos library.</string>
+</dict>
+</plist>
